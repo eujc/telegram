@@ -1,5 +1,5 @@
 # 2024 Telegram注册教学 ，电报使用教程，telegram注册收不到验证码怎么办？
-Telegram 注册教学，新手入门教学：https://youtu.be/2hb7SHHKQsI
+Telegram 注册教学，新手入门教学：▶️ https://youtu.be/2hb7SHHKQsI
 
 ### 1、Telegram下载：https://telegram.org/apps<br>
 安卓、Windows、macOS 可以通过以上链接下载，iOS在 App Store 下载，登录美区AppleID账号。<a href="https://github.com/kjfx/AppleID" target="_blank">美区AppleID注册教程>></a>
